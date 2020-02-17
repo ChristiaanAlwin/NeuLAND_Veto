@@ -23,9 +23,9 @@ Some additional explanation is contained in R3BRoot/VetoSim/Manual.txt
 
 How to cite this code:
 
-DOI:
+DOI: 10.5281/zenodo.3670632
 
-URL:
+URL: https://zenodo.org/badge/latestdoi/241109623
 
 
 Associated Papers:
