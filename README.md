@@ -35,7 +35,7 @@ Nuclear Instruments and Methods in Physics Research Section A, vol. 930, pp. 203
 URL: https://www.sciencedirect.com/science/article/pii/S016890021930395X
 
 C. A. Douma, "Measurement of the Gamow-Teller states in 116Sb and 122Sb,"
-University of Groningen, Groningen, Netherlands (2019).
+PhD. Thesis, University of Groningen, Groningen, Netherlands (2019).
 URL: https://www.rug.nl/research/portal/files/74454235/Complete_thesis.pdf
 
 C. A. Douma et al., "Design studies for the NeuLAND VETO detector,"
